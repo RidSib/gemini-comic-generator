@@ -1,0 +1,4 @@
+.env
+node_modules/
+comics/
+.DS_Store

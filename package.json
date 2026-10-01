@@ -1,0 +1,13 @@
+{
+  "name": "gemini-comic-generator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Prompt-to-comic web app: Gemini plans the story, Nano Banana draws multi-panel pages.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=20.12"
+  }
+}
